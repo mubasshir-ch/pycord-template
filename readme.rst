@@ -4,7 +4,7 @@ Default pycord template I use for my bots
 Create the bot
 --------------
 
-- `Create new bot <https://discord.com/developers/applications>`
+- `Create new bot <https://discord.com/developers/applications>`_
 - Got to ``Bot`` and click Reset Token and Copy the bot token.
 - Turn on all the privilaged intents. (If you don't want to use all intents, modify the code accordingly)
 - Go to ``Oauth2 -> URL Generator``, select ``bot`` and ``application.commands``, select required permission and copy the generated url to invite the bot.
@@ -24,8 +24,8 @@ Running the bot
 
 Useful links
 ------------
-- `Pycord Documentation <https://docs.pycord.dev/en/master/index.html>`
-- `Pycord Github <https://github.com/Pycord-Development/pycord/>`
-- `Pycord Examples <https://github.com/Pycord-Development/pycord/tree/master/examples>`
-- `Discord Developer Portal <https://discord.com/developers/applications>`
-- `Discord Developer Portal Docs <https://discord.com/developers/docs/intro>`
+- `Pycord Documentation <https://docs.pycord.dev/en/master/index.html>`_
+- `Pycord Github <https://github.com/Pycord-Development/pycord/>`_
+- `Pycord Examples <https://github.com/Pycord-Development/pycord/tree/master/examples>`_
+- `Discord Developer Portal <https://discord.com/developers/applications>`_
+- `Discord Developer Portal Docs <https://discord.com/developers/docs/intro>`_
