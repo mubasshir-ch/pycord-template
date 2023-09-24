@@ -1,0 +1,3 @@
+pycord[voice]
+python-dotenv
+pymongo

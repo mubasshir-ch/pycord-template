@@ -1,0 +1,9 @@
+{
+    "BOT_PREFIX": "Put command prefix",
+    "DEVS": [
+        "Put developer id(s)"
+    ],
+    "TEST_GUILDS": [
+        "Put test guild id(s) in int format"
+    ]
+}
